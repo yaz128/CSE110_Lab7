@@ -1,7 +1,6 @@
 # Lab 7
 
 Name: Yang Zou
-## Part 1 Questions
 
 1. I would put automated tests in a GitHub Action that runs whenever code is pushed. This helps check the website automatically and catches bugs early before merging or submitting.
 
